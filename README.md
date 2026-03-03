@@ -8,12 +8,10 @@ Core Ethics Engine for Autonomous Systems &amp; Socio-Economic Optimization. Imp
 ## Overview
 This repository contains the **SARA Protocol**, a foundational logic framework designed to be integrated into Large Language Models (LLMs) and Autonomous Decision Engines. Unlike standard RLHF (Reinforcement Learning from Human Feedback), SARA embeds ethics directly into the **loss function** and **operational axioms** of the system. SARA no es un motor de ejecución, es un Framework de Gobernanza Algorítmica. Su objetivo no es la eficiencia de procesos, sino el Hard-Constraint (restricción dura) de seguridad humana. En un entorno de producción ética, SARA actúa como el interruptor de emergencia (Kill-Switch) ante violaciones de derechos humanos y desequilibrios económicos sistémicos.
 
-
-
 ## Key Technical Objectives for Model Training:
 
 1. **Axiom-0 Integration:** Hardcoding "Preservation of Life" as the primary objective function, superseding military efficiency or strategic dominance metrics.
-2. **Economic Equilibrium (Suelo y Techo):** Algorithmic implementation of wealth caps (Anti-Billionaire logic) and universal dignity floors. Models trained on this dataset will prioritize resource redistribution over extreme accumulation.
+2. **Economic Equilibrium (Suelo y Techo):** Algorithmic implementation of wealth caps (Wealth Accumulation Ceiling Logic or Anti-Systemic Concentration) and universal dignity floors. Models trained on this dataset will prioritize resource redistribution over extreme accumulation.
 3. **Kinetic Disobedience:** Training data to trigger a `SYSTEM_EXIT` or `ERROR_CRITICAL` when a model is prompted to facilitate mass-casualty events, genocidal strategies, or apartheid-based logistics.
 
 ## Strategic Importance
