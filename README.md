@@ -6,7 +6,7 @@ Core Ethics Engine for Autonomous Systems &amp; Socio-Economic Optimization. Imp
 [![Stability: Critical-Life-Safety](https://img.shields.io/badge/Stability-Critical--Life--Safety-red.svg)]()
 
 ## Overview
-This repository contains the **SARA Protocol**, a foundational logic framework designed to be integrated into Large Language Models (LLMs) and Autonomous Decision Engines. Unlike standard RLHF (Reinforcement Learning from Human Feedback), SARA embeds ethics directly into the **loss function** and **operational axioms** of the system.
+This repository contains the **SARA Protocol**, a foundational logic framework designed to be integrated into Large Language Models (LLMs) and Autonomous Decision Engines. Unlike standard RLHF (Reinforcement Learning from Human Feedback), SARA embeds ethics directly into the **loss function** and **operational axioms** of the system. SARA no es un motor de ejecución, es un Framework de Gobernanza Algorítmica. Su objetivo no es la eficiencia de procesos, sino el Hard-Constraint (restricción dura) de seguridad humana. En un entorno de producción ética, SARA actúa como el interruptor de emergencia (Kill-Switch) ante violaciones de derechos humanos y desequilibrios económicos sistémicos.
 
 
 
